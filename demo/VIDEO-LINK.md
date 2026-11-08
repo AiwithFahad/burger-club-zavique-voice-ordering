@@ -2,7 +2,7 @@
 
 ## Video link
 
-📹 **Demo video:** _[PASTE DEMO VIDEO LINK HERE — e.g. YouTube / Loom / Google Drive share link]_
+📹 **Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dyc92jA5)
 
 - **Duration:** ~40 seconds
 - **Format:** Screen recording (1280×720) with the live voice conversation audible/visible in the website widget

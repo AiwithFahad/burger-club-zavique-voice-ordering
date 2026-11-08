@@ -126,7 +126,7 @@ See [PROJECT-ARCHITECTURE.md](PROJECT-ARCHITECTURE.md) for the full architecture
 
 ## Demo Video
 
-📹 **Demo video link:** _[Add link here — see demo/VIDEO-LINK.md](demo/VIDEO-LINK.md)_
+📹 **Demo video link:** [Watch on LinkedIn](https://lnkd.in/p/dyc92jA5) — details in [demo/VIDEO-LINK.md](demo/VIDEO-LINK.md)
 
 The 40-second demonstration shows the live voice order end-to-end and the resulting records in Google Sheets. Key moments are timestamped in [demo/VIDEO-LINK.md](demo/VIDEO-LINK.md).
 
